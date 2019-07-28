@@ -12,3 +12,5 @@ There are many options to configure:
 -f, --full Loads a full layout and assault plan
 -w, --water Loads a full layout with water
 -i, --insane Loads a difficult assault plan
+
+Completed for CS61A
