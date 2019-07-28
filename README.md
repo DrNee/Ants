@@ -3,7 +3,7 @@ Ants vs. Bees, a Plants vs. Zombies like game written in python with GUI.
 For a text based game: python3 ants.py
 To play a graphical game, use: python3 ants_gui.py
 
-[alt text](antsvsbees.PNG)
+[alt text](antsvsbeespic.PNG)
 
 There are many options to configure:
 
